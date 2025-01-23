@@ -1,7 +1,6 @@
 import openai
 
-# Set your API key (replace this with your actual API key when needed)
-openai.api_key = "sk-fj43NcA8vPmXy78903Klq92XbR7YcWDQlOPqeZRt"
+openai.api_key = "REDACTED"
 
 def chat_with_gpt(prompt, model="gpt-3.5-turbo"):
     """
